@@ -1,0 +1,7 @@
+package dao;
+
+import interfaces.Person;
+
+public class AmericoTomas implements Person{
+
+}

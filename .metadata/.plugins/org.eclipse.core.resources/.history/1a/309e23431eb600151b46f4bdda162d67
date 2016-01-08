@@ -1,0 +1,21 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Application {
+	
+	//MAIN
+	public static void main(String[] args) {
+		
+		//LOCAL VARIABLES
+		List<Integer> list = new ArrayList<Integer>();
+		
+		//ADD
+		list.add(5);
+		list.add(10);
+		list.add(15);
+		
+	}
+
+}

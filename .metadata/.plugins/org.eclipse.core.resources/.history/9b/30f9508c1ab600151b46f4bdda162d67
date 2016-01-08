@@ -1,0 +1,10 @@
+package interfaces;
+
+public interface Person {
+	
+	//DEFAULT: insert methods with implementation
+	default public void speak() {
+		
+	}
+
+}

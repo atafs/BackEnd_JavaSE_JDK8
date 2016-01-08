@@ -1,0 +1,13 @@
+package classes;
+
+import interfaces.WorkerInterface;
+
+public class Worker {
+	
+	//PROCEDURE
+	public void execute(WorkerInterface workerInterface) {
+		workerInterface.doSomeWork();
+	}
+	
+
+}

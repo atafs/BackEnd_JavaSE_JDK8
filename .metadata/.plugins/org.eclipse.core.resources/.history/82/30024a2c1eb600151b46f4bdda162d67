@@ -1,0 +1,15 @@
+package main;
+
+import java.util.ArrayList;
+
+public class Application {
+	
+	//MAIN
+	public static void main(String[] args) {
+		
+		//LOCAL VARIABLES
+		List<Integers> list = new ArrayList<Integers>();
+		
+	}
+
+}

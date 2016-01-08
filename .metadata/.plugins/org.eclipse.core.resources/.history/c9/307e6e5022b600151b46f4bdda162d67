@@ -1,0 +1,12 @@
+package test;
+
+import interfaces.WorkerInterface;
+
+public class WorkerInterfaceTest {
+	//
+	public void execute(WorkerInterface workerInterface) {
+		
+	}
+	
+
+}
