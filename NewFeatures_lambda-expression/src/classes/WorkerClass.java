@@ -8,6 +8,4 @@ public class WorkerClass {
 	public void execute(WorkerInterface workerInterface) {
 		workerInterface.doSomeWork();
 	}
-	
-
 }
