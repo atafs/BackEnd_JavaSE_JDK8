@@ -1,9 +1,0 @@
-package interfaces;
-
-public interface Person {
-	
-	default public void speak() {
-		
-	}
-
-}
